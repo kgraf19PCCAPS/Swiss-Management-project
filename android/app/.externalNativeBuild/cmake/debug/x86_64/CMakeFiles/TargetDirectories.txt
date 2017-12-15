@@ -1,0 +1,3 @@
+/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/native-lib.dir

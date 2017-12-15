@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Swiss management</string>
+    <string-array name="input_options">
+        <item>[Select Input Type]</item>
+        <item>Completed Task</item>
+        <item>Report an Issue</item>
+    </string-array>
+    <string-array name="house_options">
+        <item>[Select House]</item>
+    </string-array>
+    <string-array name="task_options">
+        <item>[Select Task]</item>
+    </string-array>
+</resources>

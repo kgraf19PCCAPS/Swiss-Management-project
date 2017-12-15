@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_286e9f80614bf86beb6d0dd0428d7095e124eb6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/.android/build-cache/bc59adfa995ef4f703b1dbaf9a0e3edaae70c368/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/classes_a0bd640b0745cfbf89a661bcfdc91e9ad947b5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/.android/build-cache/bed43df2d9f92743100a1d1464ff2302c56213a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/classes_a456078fc26c636c8ca0ef385dde1408b4afb98c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c25795b976a7f85937b8e2cbfb9a4a15b4e6be9">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7dc43faadb0130ff75fc386aef88e43fe6cf19cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/.android/build-cache/558d736e9b810a480d9d0286d0824a028ccfecae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/classes_945b3cbe25936e73f46b186bc2d19f09b4d177fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/.android/build-cache/2f11e1220b3f0aa9fe929b49ebe250a69cc14c8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/classes_96a26193e82672e12983bde4c97d5ac2853dc229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/.android/build-cache/bfa0de4a10633e0188bfd529a6ff7ad09d19aa8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/classes_731ff69f6eeba07ee26f8b6988b43d15fcfcc8f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/.android/build-cache/c8cf32af35ff38279c1ad4259963117695527666/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/classes_a3a530ace208c34e5765116e7aa68b4ec5ef0dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/.android/build-cache/73c1dfdc7e48e17d1382e351d53d1f5eb1603ce8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/classes_dfa5fb191fe7bd10cc480d13e59fa1f560018578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/.android/build-cache/32ca410c8a5634230a7b8c54250b8f446c36e894/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/classes_b16056ee3bb69588512af9939edd283c9465b7b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/.android/build-cache/8756c3e48565fdbec66741824be56e2def7be7f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/classes_61d33843cd2cb551d37685a5f882373f2742a274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/.android/build-cache/35a28f1fb83ae8b12b89c182b167e61cd2254327/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/classes_89e25fa551107696a314af37a07c6208fb71b64a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7bc2c0243d462c3bd477845e5003ce14b4a215c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/whickman18/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/whickman18/Desktop/3-4R PCCAPS/Swissmanagement/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_3befaca3108ad45b60ada29d58c2a22a20dcf53f.jar" />
+    </item>
+
+</items>
